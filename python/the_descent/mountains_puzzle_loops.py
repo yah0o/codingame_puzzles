@@ -1,6 +1,8 @@
 import sys
 import math
 
+# https://www.codingame.com/ide/puzzle/the-descent
+# Destroy the mountains before your starship collides with one of them. For that, shoot the highest mountain on your path.
 # The while loop represents the game.
 # Each iteration represents a turn of the game
 # where you are given inputs (the heights of the mountains)

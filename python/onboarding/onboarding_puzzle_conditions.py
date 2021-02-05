@@ -1,4 +1,6 @@
 # game loop
+# https://www.codingame.com/ide/puzzle/onboarding
+# Your program must destroy the enemy ships by shooting the closest enemy on each turn
 while 1:
     enemy_1 = input()  # name of enemy 1
     dist_1 = int(input())  # distance to enemy 1
