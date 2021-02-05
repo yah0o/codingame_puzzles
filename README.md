@@ -1,2 +1,3 @@
 # codingame_puzzles
-Puzzle tasks from https://www.codingame.com/
+
+Funny puzzle tasks from https://www.codingame.com/
